@@ -707,3 +707,8 @@ p.game-info
 {
     text-align: justify;
 }
+
+img.custom-img
+{
+    margin: 20px 0px;
+}
